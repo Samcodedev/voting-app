@@ -1,0 +1,311 @@
+[
+    [
+        {
+            "id": "pre-1",
+            "vote":{
+                "voteId": "vote11()",
+                "voteId2": "vote-close-1",
+                "votes": "745"
+            },
+            "detail":{
+                "name": "Samuel Obanla",
+                "department": "Mech Engine",
+                "CGPA": "4.99",
+                "gender": "Male",
+                "matrix": "pn/me/19/1477",
+                "position": "1st",
+                "about": "Samuel Obanla is a sincere and hard woring person, love to bring out the best out of every students by engaging them in educative activities"
+            },
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "closeDetail": "close1()"
+        },
+        {
+            "id": "pre-2",
+            "vote":{
+                "voteId": "vote22()",
+                "voteId2": "vote-close-2",
+                "votes": "545"
+            },
+            "detail":{
+                "name": "John Aina",
+                "department": "Computer Science",
+                "CGPA": "4.32",
+                "gender": "Male",
+                "matrix": "n/cs/19/1466",
+                "position": "2st",
+                "about": "John Aina is a nice and active person, always ensure students are enjoying their personal right has a student"    
+            },
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "closeDetail": "close2()"
+        },
+        {
+            "id": "pre-3",
+            "vote":{
+                "voteId": "vote33()",
+                "voteId2": "vote-close-3",
+                "votes": "501"
+            },
+            "detail":{
+                "name": "Matthew Peter",
+                "department": "Mass Communication",
+                "CGPA": "3.32",
+                "gender": "Male",
+                "matrix": "n/ma/19/0876",
+                "position": "3rd",
+                "about": "Matthew Peter has been a good and respected person once from his admission into the institution"
+            },
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "closeDetail": "close3()"
+        },
+        {
+            "id": "pre-4",
+            "vote":{
+                "voteId": "vote44()",
+                "voteId2": "vote-close-4",
+                "votes": "477"
+            },
+            "detail":{
+                "name": "Esther Dada",
+                "department": "Food Tech",
+                "CGPA": "4.00",
+                "gender": "Female",
+                "matrix": "n/ft/19/1244",
+                "position": "4th",
+                "about": "Esther Dada has been a lady with courage and perssion to work and fight for the students right."
+            },
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "closeDetail": "close4()"
+        },
+        {
+            "id": "pre-5",
+            "vote":{
+                "voteId": "vote55()",
+                "voteId2": "vote-close-5",
+                "votes": "457"
+            },
+            "detail":{
+                "name": "Adam Olushola",
+                "department": "Elect Elect",
+                "CGPA": "4.04",
+                "gender": "Male",
+                "matrix": "n/ee/19/1543",
+                "position": "5th",
+                "about": "Adam Olushola is a person perssionate about education and plan to take education in the institution to the next level"
+            },
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "closeDetail": "close5()"
+        },
+        {
+            "id": "pre-6",
+            "vote":{
+                "voteId": "vote66()",
+                "voteId2": "vote-close-6",
+                "votes": "245"
+            },
+            "detail":{
+                "name": "Peter Ugochukwu",
+                "department": "Civil Eng",
+                "CGPA": "3.49",
+                "gender": "Male",
+                "matrix": "n/ce/19/1633",
+                "position": "6th",
+                "about": "Peter Ugochukwu is a person full of courage and boldness to make things right and capable to fight for the student rights"
+            },
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "closeDetail": "close6()"
+        }
+    ],
+    [
+        {
+            "name": "Samuel Obanla",
+            "department": "Mech Engine",
+            "CGPA": "4.99",
+            "gender": "Male",
+            "matrix": "pn/me/19/1477",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "1st",
+            "votes": "745",
+            "about": "Samuel Obanla is a sincere and hard woring person, love to bring out the best out of every students by engaging them in educative activities"
+        },
+        {
+            "name": "John Aina",
+            "department": "Computer Science",
+            "CGPA": "4.32",
+            "gender": "Male",
+            "matrix": "n/cs/19/1466",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "2st",
+            "votes": "545",
+            "about": "John Aina is a nice and active person, always ensure students are enjoying their personal right has a student"
+        },
+        {
+            "name": "Matthew Peter",
+            "department": "Mass Communication",
+            "CGPA": "3.32",
+            "gender": "Male",
+            "matrix": "n/ma/19/0876",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "3rd",
+            "votes": "501",
+            "about": "Matthew Peter has been a good and respected person once from his admission into the institution"
+        },
+        {
+            "name": "Esther Dada",
+            "department": "Food Tech",
+            "CGPA": "4.00",
+            "gender": "Female",
+            "matrix": "n/ft/19/1244",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "4th",
+            "votes": "477",
+            "about": "Esther Dada has been a lady with courage and perssion to work and fight for the students right."
+        },
+        {
+            "name": "Peter Ugochukwu",
+            "department": "Civil Eng",
+            "CGPA": "3.49",
+            "gender": "Male",
+            "matrix": "n/ce/19/1633",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "6th",
+            "votes": "245",
+            "about": "Peter Ugochukwu is a person full of courage and boldness to make things right and capable to fight for the student rights"
+        }
+    ],
+    [
+        {
+            "name": "Samuel Obanla",
+            "department": "Mech Engine",
+            "CGPA": "4.99",
+            "gender": "Male",
+            "matrix": "pn/me/19/1477",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "1st",
+            "votes": "745",
+            "about": "Samuel Obanla is a sincere and hard woring person, love to bring out the best out of every students by engaging them in educative activities"
+        },
+        {
+            "name": "John Aina",
+            "department": "Computer Science",
+            "CGPA": "4.32",
+            "gender": "Male",
+            "matrix": "n/cs/19/1466",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "2st",
+            "votes": "545",
+            "about": "John Aina is a nice and active person, always ensure students are enjoying their personal right has a student"
+        },
+        {
+            "name": "Matthew Peter",
+            "department": "Mass Communication",
+            "CGPA": "3.32",
+            "gender": "Male",
+            "matrix": "n/ma/19/0876",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "3rd",
+            "votes": "501",
+            "about": "Matthew Peter has been a good and respected person once from his admission into the institution"
+        },
+        {
+            "name": "Esther Dada",
+            "department": "Food Tech",
+            "CGPA": "4.00",
+            "gender": "Female",
+            "matrix": "n/ft/19/1244",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "4th",
+            "votes": "477",
+            "about": "Esther Dada has been a lady with courage and perssion to work and fight for the students right."
+        },
+        {
+            "name": "Adam Olushola",
+            "department": "Elect Elect",
+            "CGPA": "4.04",
+            "gender": "Male",
+            "matrix": "n/ee/19/1543",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "5th",
+            "votes": "457",
+            "about": "Adam Olushola is a person perssionate about education and plan to take education in the institution to the next level"
+        },
+        {
+            "name": "Peter Ugochukwu",
+            "department": "Civil Eng",
+            "CGPA": "3.49",
+            "gender": "Male",
+            "matrix": "n/ce/19/1633",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "6th",
+            "votes": "245",
+            "about": "Peter Ugochukwu is a person full of courage and boldness to make things right and capable to fight for the student rights"
+        }
+    ],
+    [
+        {
+            "name": "Samuel Obanla",
+            "department": "Mech Engine",
+            "CGPA": "4.99",
+            "gender": "Male",
+            "matrix": "pn/me/19/1477",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "1st",
+            "votes": "745",
+            "about": "Samuel Obanla is a sincere and hard woring person, love to bring out the best out of every students by engaging them in educative activities"
+        },
+        {
+            "name": "John Aina",
+            "department": "Computer Science",
+            "CGPA": "4.32",
+            "gender": "Male",
+            "matrix": "n/cs/19/1466",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "2st",
+            "votes": "545",
+            "about": "John Aina is a nice and active person, always ensure students are enjoying their personal right has a student"
+        },
+        {
+            "name": "Matthew Peter",
+            "department": "Mass Communication",
+            "CGPA": "3.32",
+            "gender": "Male",
+            "matrix": "n/ma/19/0876",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "3rd",
+            "votes": "501",
+            "about": "Matthew Peter has been a good and respected person once from his admission into the institution"
+        },
+        {
+            "name": "Esther Dada",
+            "department": "Food Tech",
+            "CGPA": "4.00",
+            "gender": "Female",
+            "matrix": "n/ft/19/1244",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "4th",
+            "votes": "477",
+            "about": "Esther Dada has been a lady with courage and perssion to work and fight for the students right."
+        },
+        {
+            "name": "Adam Olushola",
+            "department": "Elect Elect",
+            "CGPA": "4.04",
+            "gender": "Male",
+            "matrix": "n/ee/19/1543",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "5th",
+            "votes": "457",
+            "about": "Adam Olushola is a person perssionate about education and plan to take education in the institution to the next level"
+        },
+        {
+            "name": "Peter Ugochukwu",
+            "department": "Civil Eng",
+            "CGPA": "3.49",
+            "gender": "Male",
+            "matrix": "n/ce/19/1633",
+            "img": "img/1a7070be96322f31d46d8a85035b3031.jpg",
+            "position": "6th",
+            "votes": "245",
+            "about": "Peter Ugochukwu is a person full of courage and boldness to make things right and capable to fight for the student rights"
+        }
+    ]
+]
